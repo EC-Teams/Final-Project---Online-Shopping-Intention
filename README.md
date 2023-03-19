@@ -2,6 +2,7 @@
 Repository ini difungsikan untuk pembelajaran bekerja secara kolaboratif dengan anggota team Kelompok 9 : Rakamin DS Bootcamp Batch 30
 
 ## **Business Insight & Recommendation** 
+## Test 2##
 
 
 - Jumlah revenue atau pendapatan yang didapat dari pelanggan lama atau yang kembali lebih banyak daripada pelanggan baru. Namun, tingkat konversi pelanggan baru lebih tinggi dibandingkan dengan pelanggan lama. Dari total pengujung sebanyak 85% merupakan pengunjung kembali ke situs dan 15% pengunjung adalah baru. Kita dapat memberikan tawaran atau campaign untuk menarik lebih banyak pengunjung baru agar tertarik melakukan pembelian pada situs web dan membuat pelanggan lama untuk melakukan transaksi kembali di situs web.
