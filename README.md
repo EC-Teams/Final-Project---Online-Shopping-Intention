@@ -4,10 +4,10 @@
 
 Tingginya minat belanja online telah menciptakan dimensi baru dalam bisnis toko online. Untuk meningkatkan konversi penjualan dan mengoptimalkan strategi pemasaran, penting bagi penjual untuk memahami pola dan niat beli pelanggan online. 
 
-Berdasarkan data dari 12.330 pengunjung situs tokoonline, 84.5% pengunjung diketahui tidak melakukan transaksi. 
+Berdasarkan data dari 12.330 pengunjung situs toko online, 84.5% pengunjung diketahui tidak melakukan transaksi. 
 Hal tersebut merupakan permasalahan penting karena dengan tidak adanya transaksi maka revenue tidak akan meningkat. 
 
-Oleh karena itu diperlukan analisa dengan machine learning untuk memprediksi niat beli pelanggan denganmenggunakan data riwayat pembelian dan interaksi situs
+Oleh karena itu diperlukan analisa dengan machine learning untuk memprediksi niat beli pelanggan dengan menggunakan data riwayat pembelian dan interaksi situs
 
 ## **Business Insight & Recommendation** 
 ## **Summary Insight** 
